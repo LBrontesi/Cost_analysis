@@ -29,7 +29,7 @@ plt.ylabel("costs in $")
 plt.show()
 
 
-I = 1000
+I = 100
 capital = np.zeros((3,nyears,I))
 capital[:,0,:] =1000
 
